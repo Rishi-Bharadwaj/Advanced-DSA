@@ -1,10 +1,11 @@
+//Reverse the digits of an integer
 #include<iostream>
 #include<vector>
 #include<stack>
 
 using namespace std;
 
-//O(n), n is number of dgits
+//O(n), n is number of digits
 int main()
 {
     int n;
