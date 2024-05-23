@@ -1,3 +1,5 @@
+//Given an n x m matrix print its elements in a spiral manner
+//O(nm)
 #include<iostream>
 
 using namespace std;
